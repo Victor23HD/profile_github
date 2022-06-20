@@ -1,3 +1,6 @@
+![Screenshot_1655751391](https://user-images.githubusercontent.com/103453296/174667303-8a02fd04-5d5a-45bb-bf47-529ae712f3de.png)
+
+
 # Conteúdo
  * Conhecendo o React Native
  * O que é react-native?
